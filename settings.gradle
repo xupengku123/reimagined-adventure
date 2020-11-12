@@ -1,0 +1,3 @@
+include ':pluginlib'
+include ':app'
+rootProject.name = "XmlTool"
